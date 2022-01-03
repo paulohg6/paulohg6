@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulohg6
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on software testing
 - 📫 How to reach me paulo_smr1@hotmail.com
 
